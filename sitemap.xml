@@ -11,8 +11,24 @@
     <loc>https://neptuneprobe.com/Hugo/posts/</loc>
     <lastmod>2022-04-01T17:13:57+08:00</lastmod>
   </url><url>
-    <loc>https://neptuneprobe.com/Hugo/categories/</loc>
+    <loc>https://neptuneprobe.com/Hugo/tags/blog/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neptuneprobe.com/Hugo/post/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neptuneprobe.com/Hugo/post/test/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://neptuneprobe.com/Hugo/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neptuneprobe.com/Hugo/tags/test/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neptuneprobe.com/Hugo/post/test/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://neptuneprobe.com/Hugo/categories/</loc>
   </url>
 </urlset>
