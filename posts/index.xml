@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neptune Probe</title>
-    <link>https://neptuneprobe.com/Hugo/</link>
-    <description>Recent content on Neptune Probe</description>
+    <title>Posts on Neptune Probe</title>
+    <link>https://neptuneprobe.com/Hugo/posts/</link>
+    <description>Recent content in Posts on Neptune Probe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 17:13:57 +0800</lastBuildDate><atom:link href="https://neptuneprobe.com/Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 17:13:57 +0800</lastBuildDate><atom:link href="https://neptuneprobe.com/Hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://neptuneprobe.com/Hugo/posts/my-first-post/</link>
